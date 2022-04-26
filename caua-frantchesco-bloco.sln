@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "caua-frantchesco-bloco", "caua-frantchesco-bloco\caua-frantchesco-bloco.csproj", "{3F43FB84-6C7A-419D-993F-B3D56B273FC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F43FB84-6C7A-419D-993F-B3D56B273FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F43FB84-6C7A-419D-993F-B3D56B273FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F43FB84-6C7A-419D-993F-B3D56B273FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F43FB84-6C7A-419D-993F-B3D56B273FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70ED6DC2-2209-4616-BBED-BEAB150ACFC6}
+	EndGlobalSection
+EndGlobal
